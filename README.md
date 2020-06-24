@@ -1,2 +1,2 @@
 # wiki
-Jamza's Wiki
+Jamza的个人知识库。
